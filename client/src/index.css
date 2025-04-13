@@ -1,0 +1,12 @@
+body {
+  background-color: #f0f4f8;
+  background-image: url("https://images.unsplash.com/photo-1612831664153-182845c7f8d2?crop=entropy&cs=tinysrgb&fit=crop&h=1080&w=1920");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+* {
+  font-family: "Poppins", sans-serif !important;
+}
